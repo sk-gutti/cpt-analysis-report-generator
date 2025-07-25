@@ -1,0 +1,31 @@
+billing_code,negotiated_rate,billing_class,negotiated_type,city,taxonomy_classification
+27130,1500.00,Outpatient,Fee Schedule,New York,Orthopedic Surgery
+27130,1200.00,Inpatient,Bundled Payment,Los Angeles,Orthopedic Surgery
+27130,1350.00,Outpatient,Fee Schedule,Chicago,Orthopedic Surgery
+27130,1450.00,Outpatient,Percentage of Charges,Houston,Orthopedic Surgery
+27130,1100.00,Inpatient,Per Diem,Phoenix,Orthopedic Surgery
+27130,1600.00,Outpatient,Fee Schedule,Philadelphia,Orthopedic Surgery
+27130,1300.00,Outpatient,Fee Schedule,San Antonio,Orthopedic Surgery
+27130,1400.00,Inpatient,Bundled Payment,San Diego,Orthopedic Surgery
+27130,1250.00,Outpatient,Percentage of Charges,Dallas,Orthopedic Surgery
+27130,1550.00,Outpatient,Fee Schedule,San Jose,Orthopedic Surgery
+27130,1350.00,Inpatient,Per Diem,Austin,Orthopedic Surgery
+27130,1450.00,Outpatient,Fee Schedule,Jacksonville,Orthopedic Surgery
+27130,1200.00,Outpatient,Bundled Payment,Fort Worth,Orthopedic Surgery
+27130,1500.00,Inpatient,Fee Schedule,Columbus,Orthopedic Surgery
+27130,1325.00,Outpatient,Percentage of Charges,Charlotte,Orthopedic Surgery
+27130,1475.00,Outpatient,Fee Schedule,San Francisco,Orthopedic Surgery
+27130,1275.00,Inpatient,Per Diem,Indianapolis,Orthopedic Surgery
+27130,1375.00,Outpatient,Fee Schedule,Seattle,Orthopedic Surgery
+27130,1425.00,Outpatient,Bundled Payment,Denver,Orthopedic Surgery
+27130,1525.00,Inpatient,Fee Schedule,Boston,Orthopedic Surgery
+27130,1175.00,Outpatient,Percentage of Charges,El Paso,Orthopedic Surgery
+27130,1575.00,Outpatient,Fee Schedule,Detroit,Orthopedic Surgery
+27130,1225.00,Inpatient,Per Diem,Nashville,Orthopedic Surgery
+27130,1485.00,Outpatient,Fee Schedule,Memphis,Orthopedic Surgery
+27130,1385.00,Outpatient,Bundled Payment,Portland,Orthopedic Surgery
+27130,1435.00,Inpatient,Fee Schedule,Oklahoma City,Orthopedic Surgery
+27130,1285.00,Outpatient,Percentage of Charges,Las Vegas,Orthopedic Surgery
+27130,1535.00,Outpatient,Fee Schedule,Louisville,Orthopedic Surgery
+27130,1335.00,Inpatient,Per Diem,Baltimore,Orthopedic Surgery
+27130,1465.00,Outpatient,Fee Schedule,Milwaukee,Orthopedic Surgery 
