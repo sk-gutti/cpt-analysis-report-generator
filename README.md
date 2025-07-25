@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 CPT Analysis Report Generator
 
 A comprehensive Streamlit web application that generates professional PDF reports from CPT (Current Procedural Terminology) healthcare data with interactive preview functionality.
@@ -167,3 +168,7 @@ If you encounter any issues or have questions:
 ---
 
 ⭐ **If you find this project helpful, please give it a star!** ⭐
+=======
+# cpt-analysis-report-generator
+User-friendly CPT healthcare data analysis and PDF report generator with interactive preview
+>>>>>>> 10006ba2f5eab9a3afd056075d51d6569429d0d5
